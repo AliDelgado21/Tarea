@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsensionarioVehiculo/1.0.0": {
+        "runtime": {
+          "ConsensionarioVehiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsensionarioVehiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
